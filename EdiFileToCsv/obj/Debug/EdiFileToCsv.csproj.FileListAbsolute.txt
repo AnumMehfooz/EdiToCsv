@@ -1,0 +1,14 @@
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiFileToCsv.exe.config
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiFileToCsv.exe
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiFileToCsv.pdb
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiEngine.Common.dll
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiEngine.dll
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\EdiEngine.Standards.X12_004010.dll
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\EdiFileToCsv\EdiFileToCsv\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.csproj.AssemblyReference.cache
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.csproj.SuggestedBindingRedirects.cache
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.csproj.CoreCompileInputs.cache
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.csproj.CopyComplete
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.exe
+E:\Projects\EdiFileToCsv\EdiFileToCsv\obj\Debug\EdiFileToCsv.pdb
